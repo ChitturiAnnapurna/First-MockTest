@@ -1,0 +1,5 @@
+10,"male","yellow";
+15,"female","brown";
+12,"male","blue";
+10,"male","brown";
+14,"female","violet"
